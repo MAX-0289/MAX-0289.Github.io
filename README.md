@@ -1,4 +1,4 @@
-# Ananke, A theme for [Hugo](https://gohugo.io/), a framework for building websites.
+# [MAX, Maximize Everything.](https://space.bilibili.com/62351513?spm_id_from=333.788.0.0).
 
 The intent of this theme is to provide a solid starting place for Hugo sites with basic features and include best practices for performance, accessibility, and rapid development.
 
