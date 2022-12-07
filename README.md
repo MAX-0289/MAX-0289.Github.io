@@ -1,6 +1,6 @@
-# [MAX, Maximize Everything.](https://space.bilibili.com/62351513?spm_id_from=333.788.0.0).
+# [MAX, Maximizing Everything.](https://space.bilibili.com/62351513?spm_id_from=333.788.0.0).
 
-The intent of this theme is to provide a solid starting place for Hugo sites with basic features and include best practices for performance, accessibility, and rapid development.
+To find out more WORKS of mine, please click the titile shown above.
 
 ![screenshot](https://raw.githubusercontent.com/budparr/gohugo-theme-ananke/master/images/screenshot.png)
 
