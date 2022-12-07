@@ -1,4 +1,4 @@
-# [MAX, Maximizing Everything.](https://space.bilibili.com/62351513?spm_id_from=333.788.0.0).
+# [MAX, Maximizing Everything.](https://space.bilibili.com/62351513?spm_id_from=333.788.0.0)
 
 To find out more WORKS of mine, please click the titile shown above.
 
@@ -6,7 +6,7 @@ To find out more WORKS of mine, please click the titile shown above.
 
 [Here's WHO I AM](https://m.zhipin.com/mpa/html/resume-detail?sid=self&securityId=MczaSWf3IPMM4-C1fPgsotcROm2bcLJ5rR7LAcJ0N1TzDkU5SQBcUbwhLJq75uZThqKTkA-nfmA_e0Emte9JV4Z9NHT20WWPi0x-21sbyS3fuJEkZ8Od1f2pRmUYB80iO-S9Dfgqg4HTE4B4g5fmF7brGo9t4IOgzv0BZQ~~)
 
-Features
+EDUCATION BACKGROUND
 
 - Responsive
 - Accessible
