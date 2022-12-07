@@ -2,7 +2,7 @@
 
 To find out more WORKS of mine, please click the titile shown above.
 
-![screenshot](https://raw.githubusercontent.com/budparr/gohugo-theme-ananke/master/images/screenshot.png)
+![image](https://raw.githubusercontent.com/budparr/gohugo-theme-ananke/master/images/DSC02206)
 
 [DEMO](https://gohugo-ananke-theme-demo.netlify.com/)
 
