@@ -6,8 +6,9 @@ To find out more WORKS of mine, please click the titile shown above.
 
 [Here's WHO I AM](https://m.zhipin.com/mpa/html/resume-detail?sid=self&securityId=MczaSWf3IPMM4-C1fPgsotcROm2bcLJ5rR7LAcJ0N1TzDkU5SQBcUbwhLJq75uZThqKTkA-nfmA_e0Emte9JV4Z9NHT20WWPi0x-21sbyS3fuJEkZ8Od1f2pRmUYB80iO-S9Dfgqg4HTE4B4g5fmF7brGo9t4IOgzv0BZQ~~)
 
+
 [params]
-  logo = "/images/DSC02383.JPG"
+  logo = "/images/DSC02381.JPG"
   description = "the clean blog!"
   mailchimp = "you can provide a mailchimp-link here, see below"
   mailprotect = "you can provide a protector-name here, see below"
