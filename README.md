@@ -7,8 +7,8 @@ To find out more WORKS of mine, please click the titile shown above.
 [Here's WHO I AM](https://m.zhipin.com/mpa/html/resume-detail?sid=self&securityId=MczaSWf3IPMM4-C1fPgsotcROm2bcLJ5rR7LAcJ0N1TzDkU5SQBcUbwhLJq75uZThqKTkA-nfmA_e0Emte9JV4Z9NHT20WWPi0x-21sbyS3fuJEkZ8Od1f2pRmUYB80iO-S9Dfgqg4HTE4B4g5fmF7brGo9t4IOgzv0BZQ~~)
 
 WORKS
-![Screenshot](/DSC02381.JPG)
-![Screenshot](/WechatIMG855.jpeg)
+
+![Screenshot](/_DSC2191-Pano-2.JPG)
 
 EDUCATION BACKGROUND
 
