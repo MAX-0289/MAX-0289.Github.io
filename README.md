@@ -1,4 +1,4 @@
-# [MAX, Maximizing Everything.](https://space.bilibili.com/62351513?spm_id_from=333.788.0.0)
+# [MAX,  MAXIMIZING EVERYTHING](https://space.bilibili.com/62351513?spm_id_from=333.788.0.0)
 
 To find out more WORKS of mine, please click the titile shown above.
 
