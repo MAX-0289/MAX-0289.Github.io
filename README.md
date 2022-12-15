@@ -1,14 +1,22 @@
 # [MAX,  MAXIMIZING EVERYTHING](https://space.bilibili.com/62351513?spm_id_from=333.788.0.0)
 
-To find out more WORKS of mine, please click the titile shown above.
+`To find out more WORKS of mine, please click the titile shown above.`
 
 ![Screenshot](/DSC02206.JPG)
 
 [Here's WHO I AM](https://pan.baidu.com/s/10n6GZQ7WnYSNOKT1tFSnDA?pwd=dp4m)
 
-WORKS
+`WORKS`
 
 ![Screenshot](/_DSC2191-Pano-2.JPG)
+
+```
+教育背景：
+2021.9—2025.6
+澳门科技大学 影视制作（Film and Television Production）
+GPA: 3.2/4  English C1 Level
+主修课程：视听语言、剪辑与后期、剧本写作、etc
+```
 
 EDUCATION BACKGROUND
 
