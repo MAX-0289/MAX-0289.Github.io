@@ -8,7 +8,7 @@
 
 `WORKS`
 
-![Screenshot](/_DSC2191-Pano-2.JPG)
+![Screenshot](/_DSC2191-Pano-3.JPG)
 
 ```
 教育背景：
