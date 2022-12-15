@@ -18,28 +18,36 @@ EDUCATION BACKGROUND：
 澳门科技大学 影视制作（Film and Television Production）
 GPA: 3.2/4  English C1 Level
 主修课程：视听语言、剪辑与后期、剧本写作,etc
+
+WORK EXPERIENCE
+6 years of Photography Experience
+4 years of Portrait
+
 ```
 
 `W  O  R  K  S`
 
 ![Screenshot](/_DSC2191-Pano-3.JPG)
 ![Screenshot](/WechatIMG1266.jpeg)
-![Screenshot](/_DSC3200.JPG)
-![Screenshot](/_DSC8016.JPG)
+![Screenshot](/_DSC3202-3.JPG)
+![Screenshot](/_DSC8016-2.JPG)
 ![Screenshot](/WechatIMG1265.jpeg)
 
 [TO FIND OUT MORE](https://www.xiaohongshu.com/user/profile/615fc4640000000002022d78?xhsshare=CopyLink&appuid=615fc4640000000002022d78&apptime=1671126971)
 
-EDUCATION BACKGROUND
+`What can I do for you?`
 
-- Responsive
-- Accessible
-- Contact form
-- Custom Robots.txt (changes values based on environment)
-- Internal templates for meta data, google analytics, and DISQUS or COMMENTO comments
-- RSS Discovery
-- Table of Contents (must declare `toc: true` in post parameter)
-- Stackbit configuration ([Stackbit](https://www.stackbit.com))
+Photography:
+- Portrait Photography (Including Bourdior & Wedding)
+- Event Photography (Including Conference & Celebrations & 
+- Food Photography 
+- To Be Continued
+
+Videography:
+- Story Short Film (No more than 30 mins)
+- Documentary
+- To Be Continued
+
 
 Also includes examples of Hugo Features or Functions:
 
