@@ -23,8 +23,10 @@ GPA: 3.2/4  English C1 Level
 `W  O  R  K  S`
 
 ![Screenshot](/_DSC2191-Pano-3.JPG)
+![Screenshot](/WechatIMG1266.jpeg)
 ![Screenshot](/_DSC3200.JPG)
 ![Screenshot](/_DSC8016.JPG)
+![Screenshot](/WechatIMG1265.jpeg)
 
 [TO FIND OUT MORE](https://www.xiaohongshu.com/user/profile/615fc4640000000002022d78?xhsshare=CopyLink&appuid=615fc4640000000002022d78&apptime=1671126971)
 
