@@ -6,17 +6,27 @@
 
 [Here's WHO I AM](https://pan.baidu.com/s/10n6GZQ7WnYSNOKT1tFSnDA?pwd=dp4m)
 
-`WORKS`
 
-![Screenshot](/_DSC2191-Pano-3.JPG)
 
 ```
-教育背景：
+徐靖宇 MAX  
+Tel：15890685207/62783692
+E-MAIL：max020819@gmail.com
+
+EDUCATION BACKGROUND：
 2021.9—2025.6
 澳门科技大学 影视制作（Film and Television Production）
 GPA: 3.2/4  English C1 Level
-主修课程：视听语言、剪辑与后期、剧本写作、etc
+主修课程：视听语言、剪辑与后期、剧本写作,etc
 ```
+
+`W  O  R  K  S`
+
+![Screenshot](/_DSC2191-Pano-3.JPG)
+![Screenshot](/_DSC8016.JPG)
+![Screenshot](/_DSC3200.JPG)
+
+[TO FIND OUT MORE](https://www.xiaohongshu.com/user/profile/615fc4640000000002022d78?xhsshare=CopyLink&appuid=615fc4640000000002022d78&apptime=1671126971)
 
 EDUCATION BACKGROUND
 
