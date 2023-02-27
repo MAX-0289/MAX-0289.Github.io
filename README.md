@@ -39,7 +39,7 @@ INTERESTED IN
 
 ### `W  O  R  K  S`
 
-![Screenshot](/MACAO PANAROMA.png)
+![Screenshot](/Macau.jpg)
 ![Screenshot](/WechatIMG1266.jpeg)
 ![Screenshot](/_DSC3202-5.JPG)
 ![Screenshot](/_DSC8016-4.JPG)
