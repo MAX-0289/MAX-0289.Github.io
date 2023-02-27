@@ -56,8 +56,10 @@ INTERESTED IN
 - To Be Continued
 
 ### Videography:
-- Story Short Film (No more than 30 mins)
+- Narrative Short Film (No more than 30 mins)
 - Documentary
+- Personal MV
+- Promotional Video (Including Short Video e.g.Tictok/Douyin)
 - To Be Continued
 
 
